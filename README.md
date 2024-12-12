@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vitumbiko! <br/><a href="https://github.com/joshmadakor1">Industrial Engineering Graduate</a> & <a href="https://www.linkedin.com/in/joshmadakor/">Data Science Enthusiast</a>
+<h1>Hi, I'm Vitumbiko! <br/><a href="https://github.com/joshmadakor1">Industrial Engineering Graduate</a> & <www.linkedin.com/in/vitumbiko-makuwa>Data Science Enthusiast</a>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
