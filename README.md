@@ -10,7 +10,7 @@ Hi! I'm Vitumbiko aka Vitu, I hold a BEng Industrial Engineering degree from the
 **1. Variables and Control Structures**
 * [link] (https://github.com/makuwajoshua/Profile/blob/4504690fa1ea3ecd66ec57dfa26df0d4810766ef/README.md)
 
--<b> Lists, Functions, and String Handling</b>
+**2. Lists, Functions, and String Handling** <br>
 
 -<b> Databases</b>
 
