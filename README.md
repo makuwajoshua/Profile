@@ -19,12 +19,21 @@ The Task Management System is a Python-based application that helps manage user 
 
 
 # 📷 Screenshots
-## Login interface
-![image](https://github.com/user-attachments/assets/7d9f3702-0cfa-4f2b-93e4-213754444e8f) <br>
+## Admin login interface and menu
+![image](https://github.com/user-attachments/assets/635cd512-7165-42a1-96a8-65fb0ddb0762) <br>
+
+## View all tasks
+![image](https://github.com/user-attachments/assets/c610b5f1-746a-426e-9569-4c02f959c466)
+
+## Report Generation
+![image](https://github.com/user-attachments/assets/ce45d945-fbc9-4579-8e98-60301afda52c)
+
+## Display Statistics
+![image](https://github.com/user-attachments/assets/825a77e5-51a0-4fad-9dae-f48b1c34a40a)
 
 ## Bond Option
 ![image](https://github.com/user-attachments/assets/42e3a7f2-c75c-4b06-8725-02f06292f68a)
 # ⚒️ Tools and Technologies
 * Python 🐍
   * sys for system exit handling.
-  * datetime for task date management.
+  * DateTime for task date management.
