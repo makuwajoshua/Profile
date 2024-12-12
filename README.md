@@ -31,8 +31,6 @@ The Task Management System is a Python-based application that helps manage user 
 ## Display Statistics
 ![image](https://github.com/user-attachments/assets/825a77e5-51a0-4fad-9dae-f48b1c34a40a)
 
-## Bond Option
-![image](https://github.com/user-attachments/assets/42e3a7f2-c75c-4b06-8725-02f06292f68a)
 # ⚒️ Tools and Technologies
 * Python 🐍
   * sys for system exit handling.
