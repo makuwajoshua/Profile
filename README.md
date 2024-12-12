@@ -5,10 +5,11 @@
 
 Hi! I'm Vitumbiko aka Vitu, I hold a BEng Industrial Engineering degree from the University of Pretoria and have recently completed an intensive Data Science Bootcamp at HyperionDev, marking a significant step in my career transition. Combining my engineering background in problem-solving with a passion for deriving insights from data, I am eager to leverage these skills to drive data-informed decision-making processes. Currently, I am gaining valuable experience as an industrial Engineering intern at Blue Continent Products. I am now seeking an entry-level role 🕴️ where I can expand my knowledge, grow professionally, and contribute meaningfully as part of a team.
 
-<h2> 💻📊 Data Science Projects: </h2>
+## 💻📊 Data Science Projects:
 
--<b> Variables and Control Structures</b>
-README.md
+**1. Variables and Control Structures**
+* [link] ()
+
 -<b> Lists, Functions, and String Handling</b>
 
 -<b> Databases</b>
