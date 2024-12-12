@@ -21,9 +21,13 @@ This project is designed with a focus on user input validation, efficient mathem
 
 # 📷 Screenshots
 ## Investment Option
-![image](https://github.com/user-attachments/assets/7d9f3702-0cfa-4f2b-93e4-213754444e8f) <be>
+![image](https://github.com/user-attachments/assets/7d9f3702-0cfa-4f2b-93e4-213754444e8f) <br>
 
 ## Bond Option
-
+![image](https://github.com/user-attachments/assets/42e3a7f2-c75c-4b06-8725-02f06292f68a)
+# ⚒️ Tools and Technologies
+* Python 🐍
+* Math library for advanced calculations
+* Input validation using try-except blocks and loops
 
   
