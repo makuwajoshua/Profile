@@ -1,19 +1,30 @@
-# Welcome to My GitHub Profile! ✋
+# 📑 Task Management System
+## 👓 Overview
+The Task Management System is a Python-based application that helps manage user tasks. It includes functionalities for user authentication, task assignment, report generation, and more. The program supports **Admin** and **Non-Admin** users, with specific features tailored for each role.  <br>
+## *️⃣Features
+**Admin Users Options:**
+* 🗒️ Register a new user.
+* ➕ Add tasks.
+* 📓 View all tasks.
+* 📖 View assigned tasks.
+* 📊 Generate reports (tasks & users).
+* 📉 Display statistics.
+* Exit the system.
 
-## About me 🦾
-![image](https://github.com/user-attachments/assets/e4c13522-9925-4f0d-8995-1bc82c91f2d8) ![image](https://github.com/user-attachments/assets/c40dca17-cfec-4d39-a1a4-c4961974c646)
+**Non-Admin User Options:**
+* ➕ Add tasks.
+* 📓 View all tasks.
+* 📖 View assigned tasks.
+* Exit the system
 
-Hi! I'm Vitumbiko aka Vitu, I hold a BEng Industrial Engineering degree from the University of Pretoria and have recently completed an intensive Data Science Bootcamp at HyperionDev, marking a significant step in my career transition. Combining my engineering background in problem-solving with a passion for deriving insights from data, I am eager to leverage these skills to drive data-informed decision-making processes. Currently, I am gaining valuable experience as an industrial Engineering intern at Blue Continent Products. I am now seeking an entry-level role 🕴️ where I can expand my knowledge, grow professionally, and contribute meaningfully as part of a team.
 
-## 💻📊 Data Science Projects:
+# 📷 Screenshots
+## Login interface
+![image](https://github.com/user-attachments/assets/7d9f3702-0cfa-4f2b-93e4-213754444e8f) <br>
 
-**1. Variables and Control Structures**
-* [link] (https://github.com/makuwajoshua/Profile/blob/4504690fa1ea3ecd66ec57dfa26df0d4810766ef/README.md)
-
--<b> Lists, Functions, and String Handling</b>
-
--<b> Databases</b>
-
--<b> Data Analysis</b>
-
--<b> Unsupervised Machine Learning</b>
+## Bond Option
+![image](https://github.com/user-attachments/assets/42e3a7f2-c75c-4b06-8725-02f06292f68a)
+# ⚒️ Tools and Technologies
+* Python 🐍
+  * sys for system exit handling.
+  * datetime for task date management.
