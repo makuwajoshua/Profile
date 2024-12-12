@@ -20,5 +20,10 @@ This project is designed with a focus on user input validation, efficient mathem
   * Prevents invalid or unexpected input through validation loops.
 
 # 📷 Screenshots
+## Investment Option
+![image](https://github.com/user-attachments/assets/7d9f3702-0cfa-4f2b-93e4-213754444e8f) <be>
+
+## Bond Option
+
 
   
