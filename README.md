@@ -27,14 +27,11 @@ The US Arrests dataset contains data on arrests in the US across different state
 
 ### Data Visualization
 - **Histograms**: Used to understand the distribution of each numerical variable.
-- **Boxplots**: Helped identify the spread and potential outliers in the data.
 ![image](https://github.com/user-attachments/assets/5cf2c02f-3030-4142-8024-22c272542917)
-
 
 ### Relationship Identification
 - **Correlation Analysis**: Measured the strength and direction of relationships between variables.
 ![image](https://github.com/user-attachments/assets/9ee665fc-b469-40b8-9c84-1cdb72de80e3)
-
 
 ### Data Transformation
 - The data was normalized to ensure that all variables contribute equally to the analysis, as most variables did not exhibit a natural distribution.
