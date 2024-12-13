@@ -60,6 +60,7 @@ The application provides the following commands:
 ## Screenshots
 ### Command Menu:
 ![image](https://github.com/user-attachments/assets/3d4d68ab-2063-4d6d-823c-365e47c1cfb7)
+![image](https://github.com/user-attachments/assets/5800917a-09a5-43ea-976d-e95c79baef8d)
 
 
 ### Example JSON Output:
