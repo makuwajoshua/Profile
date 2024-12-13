@@ -37,3 +37,6 @@ The Task Management System is a Python-based application that helps manage user 
 * Python 🐍
   * sys for system exit handling.
   * DateTime for task date management.
+
+ ## Acknowledgments
+Special thanks HyperionDev community and mentors for their continuous support.
