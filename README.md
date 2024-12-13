@@ -48,6 +48,8 @@ The US Arrests dataset contains data on arrests in the US across different state
 ### Clustering
 - Applied clustering techniques (k-means and hierarchical clustering) to segment states into groups based on arrest patterns.
 - Evaluated the optimal number of clusters using methods like the elbow method and silhouette scores.
+![image](https://github.com/user-attachments/assets/637944db-6402-4ad2-a08d-cfd9e561d976)
+
 
 ## 📉 Results
 - **PCA**: Reduced dimensionality with minimal loss of information.
