@@ -65,6 +65,7 @@ The application provides the following commands:
 
 ### Example JSON Output:
 ![image](https://github.com/user-attachments/assets/009c7892-8075-43e9-a055-12dd2b50cb8a)
+![image](https://github.com/user-attachments/assets/79ae1ed2-7acd-474b-aaf0-9b248fe43ca6)
 
 
 
