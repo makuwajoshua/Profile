@@ -44,7 +44,7 @@ The US Arrests dataset contains data on arrests in the US across different state
 ### Principal Component Analysis (PCA)
 - PCA was performed to reduce dimensionality while retaining most of the variance in the dataset.
 - Visualized the principal components to identify dominant patterns.
-![image](https://github.com/user-attachments/assets/637944db-6402-4ad2-a08d-cfd9e561d976)
+![image](https://github.com/user-attachments/assets/1c98a403-295c-4276-8024-2906c2025d69)
 
 ### Clustering
 - Applied clustering techniques (k-means and hierarchical clustering) to segment states into groups based on arrest patterns.
@@ -58,5 +58,6 @@ The US Arrests dataset contains data on arrests in the US across different state
 ## 📉 Results
 - **PCA**: Reduced dimensionality with minimal loss of information.
 - **Clustering**: Identified distinct clusters of states based on arrest data.
+![image](https://github.com/user-attachments/assets/637944db-6402-4ad2-a08d-cfd9e561d976)
 
 
