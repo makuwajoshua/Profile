@@ -1,22 +1,89 @@
-# Welcome to My GitHub Profile! ✋
+# 🚗 Vehicle Specifications and Pricing Analysis
 
-## About me 🦾
-![image](https://github.com/user-attachments/assets/e4c13522-9925-4f0d-8995-1bc82c91f2d8) ![image](https://github.com/user-attachments/assets/c40dca17-cfec-4d39-a1a4-c4961974c646)
+## 📑 Project Overview
+This project involves the analysis of a dataset containing vehicle specifications and pricing information. 
+The primary focus is to explore the relationship between the wheelbase and price across various vehicle categories.
+The insights derived from this analysis aim to enhance the understanding of market dynamics and provide valuable information about vehicle pricing trends.
 
-Hi! I'm Vitumbiko aka Vitu, I hold a BEng Industrial Engineering degree from the University of Pretoria and have recently completed an intensive Data Science Bootcamp at HyperionDev, marking a significant step in my career transition. Combining my engineering background in problem-solving with a passion for deriving insights from data, I am eager to leverage these skills to drive data-informed decision-making processes. Currently, I am gaining valuable experience as an industrial Engineering intern at Blue Continent Products. I am now seeking an entry-level role 🕴️ where I can expand my knowledge, grow professionally, and contribute meaningfully as part of a team.
+## Dataset Description
+The dataset comprises the following columns:
 
-## 💻📊 Data Science Projects:
+- **normalised-losses**: Normalised average loss of a vehicle’s value.
+- **make**: Manufacturer or brand of the vehicle (e.g., alfa-romero, audi).
+- **fuel-type**: Type of fuel used by the vehicle (e.g., gas, diesel).
+- **aspiration**: Engine aspiration type (e.g., standard, turbo).
+- **num-of-doors**: Number of doors on the vehicle.
+- **body-style**: Vehicle’s body style (e.g., convertible, sedan).
+- **wheelbase**: Distance between the front and rear axles (in inches).
+- **number-of-cylinders**: Number of cylinders in the engine.
+- **engine-size**: Size of the engine (in litres).
+- **compression-ratio**: Ratio of the cylinder volume at different piston positions.
+- **horsepower**: Engine power output (in horsepower).
+- **peak-rpm**: Engine speed at which peak horsepower is achieved (in RPM).
+- **city-mpg**: Fuel efficiency in city driving (in MPG).
+- **highway-mpg**: Fuel efficiency in highway driving (in MPG).
+- **price**: Vehicle price (in USD).
 
-**1. Variables and Control Structures**
-* Link: (https://github.com/makuwajoshua/Profile/blob/4504690fa1ea3ecd66ec57dfa26df0d4810766ef/README.md)
+### Removed Columns
+The following columns were removed from the dataset as they were not relevant for the analysis:
+- `drive-wheels`
+- `symboling`
+- `engine-location`
+- `fuel-system`
+- `stroke`
+- `bore`
+- `length`
+- `width`
+- `height`
+- `curb-weight`
 
-**2. Lists, Functions, and String Handling**
+## Data Cleaning Process
+1. **Viewing Initial Data**: The `head()` method was used to inspect the first few rows of the dataset.
+2. **Data Type Conversion**:
+   - The following columns were converted to `numpy.int64`:
+     - `normalised-losses`
+     - `price`
+     - `peak-rpm`
+     - `horsepower`
+3. **Handling Missing Data**:
+   - Missing values were represented by `?` in the dataset.
+   - These were replaced with `numpy.nan`.
+   - Missing numeric values were replaced with the mean of their respective columns.
 
-* Link: (https://github.com/makuwajoshua/Profile/blob/16a228278b6bc97b13e8841c5c2da07a67ffd61e/README.md)
+### Summary of Missing Values
+| Column              | Missing Values |
+|---------------------|----------------|
+| normalised-losses   | 42             |
+| num-of-doors        | 2              |
+| horsepower          | 2              |
+| peak-rpm            | 2              |
+| price               | 4              |
 
-**3. Databases**
-* https://github.com/makuwajoshua/Profile/blob/4e6dd415991b1d7ed73d4d7d2637db90308d86bd/README.md
+## Categories of Vehicles
+The dataset includes the following categories of vehicles:
+- Convertible
+- Wagon
+- Sedan
+- Hatchback
+- Hardtop
 
--<b> Data Analysis</b>
+## Analysis Goals
+- Identify trends and insights into the relationship between wheelbase and price.
+- Understand pricing dynamics across different vehicle categories.
 
--<b> Unsupervised Machine Learning</b>
+## Tools and Technologies
+- **Programming Language**: Python
+- **Libraries Used**:
+  - `numpy`: For handling numerical operations.
+  - `pandas`: For data manipulation and analysis.
+
+## Results
+Key findings and visualizations are saved in the `results/` folder. These include:
+- Trends in pricing based on wheelbase.
+- Comparative analysis across vehicle categories.
+
+# 📷 Screenshots
+## 💰Price Distribution
+
+## Acknowledgments
+Special thanks HyperionDev community for their continuous support.
