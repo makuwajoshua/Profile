@@ -85,5 +85,9 @@ Key findings and visualizations are saved in the `results/` folder. These includ
 # 📷 Screenshots
 ## 💰Price Distribution
 
+## Scatterplot of Price vs Wheelbase and Body Style
+![image](https://github.com/user-attachments/assets/d0ee612e-7711-4d73-a4cb-193b32dc811d)
+
+
 ## Acknowledgments
 Special thanks HyperionDev community for their continuous support.
