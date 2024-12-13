@@ -1,4 +1,5 @@
 # 🚗 Vehicle Specifications and Pricing Analysis
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 
 ## 📑 Project Overview
 This project involves the analysis of a dataset containing vehicle specifications and pricing information. 
