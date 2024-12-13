@@ -1,5 +1,6 @@
 # 📑 Task Management System
 ## 👓 Overview
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 The Task Management System is a Python-based application that helps manage user tasks. It includes functionalities for user authentication, task assignment, report generation, and more. The program supports **Admin** and **Non-Admin** users, with specific features tailored for each role.  <br>
 ## *️⃣Features
 **Admin Users Options:**
