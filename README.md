@@ -1,7 +1,7 @@
 # 🚗 Vehicle Specifications and Pricing Analysis
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 
 ## 📑 Project Overview
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 This project involves the analysis of a dataset containing vehicle specifications and pricing information. 
 The primary focus is to explore the relationship between the wheelbase and price across various vehicle categories.
 The insights derived from this analysis aim to enhance the understanding of market dynamics and provide valuable information about vehicle pricing trends.
