@@ -4,6 +4,8 @@ This repository demonstrates the application of unsupervised learning techniques
 The objective is to explore, understand, and segment the data effectively.
 
 ## 🗒️ Project Overview
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) 
+
 This project explores the US Arrests dataset using unsupervised learning techniques to uncover patterns and structure within the data. The analysis includes:
 - Exploratory Data Analysis (EDA)
 - Dimensionality Reduction using PCA
