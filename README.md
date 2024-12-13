@@ -33,6 +33,8 @@ The US Arrests dataset contains data on arrests in the US across different state
 
 ### Relationship Identification
 - **Correlation Analysis**: Measured the strength and direction of relationships between variables.
+![image](https://github.com/user-attachments/assets/9ee665fc-b469-40b8-9c84-1cdb72de80e3)
+
 
 ### Data Transformation
 - The data was normalized to ensure that all variables contribute equally to the analysis, as most variables did not exhibit a natural distribution.
