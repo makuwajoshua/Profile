@@ -11,6 +11,7 @@ Hi! I'm Vitumbiko aka Vitu, I hold a BEng Industrial Engineering degree from the
 * Link: (https://github.com/makuwajoshua/Profile/blob/4504690fa1ea3ecd66ec57dfa26df0d4810766ef/README.md)
 
 **2. Lists, Functions, and String Handling**
+
 *Link: (https://github.com/makuwajoshua/Profile/blob/16a228278b6bc97b13e8841c5c2da07a67ffd61e/README.md)
 
 **2 Databases**
