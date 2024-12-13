@@ -55,9 +55,17 @@ The US Arrests dataset contains data on arrests in the US across different state
 ![image](https://github.com/user-attachments/assets/637944db-6402-4ad2-a08d-cfd9e561d976)
 
 #### Hierarchical
+
 ![image](https://github.com/user-attachments/assets/b69d7fc8-3ea4-4573-a88e-e847ed42ef96)
 
 #### KMeans
 ![image](https://github.com/user-attachments/assets/65991d7d-95e0-41e8-a7a1-6d04abfae423)
+
+# ⚒️ Tools and Technologies
+* Python 🐍
+
+## Acknowledgments
+Special thanks HyperionDev community and mentors for their continuous support.
+
 
 
