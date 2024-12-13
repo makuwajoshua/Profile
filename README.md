@@ -97,23 +97,6 @@ for item in data:
     for key, value in item.items():
         child = ET.SubElement(entry, key)
         child.text = str(value)
-```
-
----
-
-## Contributing
-Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request.
-
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-## Acknowledgments
-- [HyperionDev](https://www.hyperiondev.com/): For inspiring this project.
-- SQLite Documentation: For database references.
 - Python Community: For valuable resources and support.
 
 ---
