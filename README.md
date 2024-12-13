@@ -1,20 +1,115 @@
-# Welcome to My GitHub Profile! ✋
+# Data Querying App
 
-## About me 🦾
-![image](https://github.com/user-attachments/assets/e4c13522-9925-4f0d-8995-1bc82c91f2d8) ![image](https://github.com/user-attachments/assets/c40dca17-cfec-4d39-a1a4-c4961974c646)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Database-blue?logo=sqlite&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-Data-orange?logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-Data-red?logo=xml&logoColor=white)
 
-Hi! I'm Vitumbiko aka Vitu, I hold a BEng Industrial Engineering degree from the University of Pretoria and have recently completed an intensive Data Science Bootcamp at HyperionDev, marking a significant step in my career transition. Combining my engineering background in problem-solving with a passion for deriving insights from data, I am eager to leverage these skills to drive data-informed decision-making processes. Currently, I am gaining valuable experience as an industrial Engineering intern at Blue Continent Products. I am now seeking an entry-level role 🕴️ where I can expand my knowledge, grow professionally, and contribute meaningfully as part of a team.
+Welcome to the Data Querying App! This Python-based application provides an interface for querying a SQLite database, retrieving data, and storing results in JSON or XML formats. The app is user-friendly and demonstrates core database operations.
 
-## 💻📊 Data Science Projects:
+---
 
-**1. Variables and Control Structures**
-* Link: (https://github.com/makuwajoshua/Profile/blob/4504690fa1ea3ecd66ec57dfa26df0d4810766ef/README.md)
+## Features
+- **Database Connection**: Seamless connection to an SQLite database.
+- **Data Retrieval**: Query student and course-related information.
+- **Data Export**: Save results in JSON or XML formats.
+- **Interactive Interface**: User-friendly command-line menu.
+- **Error Handling**: Robust error management for seamless execution.
 
-**2. Lists, Functions, and String Handling**<br>
-*Link: (https://github.com/makuwajoshua/Profile/blob/16a228278b6bc97b13e8841c5c2da07a67ffd61e/README.md)
+---
 
--<b> Databases</b>
+## Prerequisites
+- Python 3.x
+- SQLite database file (`HyperionDev.db`)
 
--<b> Data Analysis</b>
+Install the required dependencies:
+```bash
+pip install sqlite3
+```
 
--<b> Unsupervised Machine Learning</b>
+---
+
+## Usage
+Clone the repository and navigate to the project directory:
+```bash
+git clone https://github.com/yourusername/data-querying-app.git
+cd data-querying-app
+```
+Ensure the SQLite database file (`HyperionDev.db`) is stored in the project directory.
+
+Run the application:
+```bash
+python app.py
+```
+
+### Command Menu
+The application provides the following commands:
+| Command           | Description |
+|-------------------|-------------|
+| `d`              | Demo: Displays all student names and surnames. |
+| `vs <student_id>` | View subjects taken by a student. |
+| `la <firstname> <surname>` | Lookup address for a given firstname and surname. |
+| `lr <student_id>` | List reviews for a given student ID. |
+| `lc <teacher_id>` | List all courses taught by a teacher. |
+| `lnc`            | List all students who haven’t completed their course. |
+| `lf`             | List students who completed their course with marks ≤30. |
+| `e`              | Exit the program. |
+
+---
+
+## Screenshots
+### Command Menu:
+
+
+### Example JSON Output:
+
+
+### Example XML Output:
+
+
+---
+
+## Code Highlights
+### Database Connection:
+```python
+conn = sqlite3.connect("HyperionDev.db")
+cur = conn.cursor()
+```
+
+### Export to JSON:
+```python
+with open(filename, 'w', encoding='utf-8') as file:
+    json.dump(data, file, sort_keys=True, indent=4)
+```
+
+### Export to XML:
+```python
+root = ET.Element("root")
+for item in data:
+    entry = ET.SubElement(root, "entry")
+    for key, value in item.items():
+        child = ET.SubElement(entry, key)
+        child.text = str(value)
+```
+
+---
+
+## Contributing
+Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request.
+
+---
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+---
+
+## Acknowledgments
+- [HyperionDev](https://www.hyperiondev.com/): For inspiring this project.
+- SQLite Documentation: For database references.
+- Python Community: For valuable resources and support.
+
+---
+
+![GitHub](https://img.shields.io/github/stars/yourusername/data-querying-app?style=social)
+
