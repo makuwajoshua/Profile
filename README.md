@@ -1,6 +1,7 @@
 # 💰 Financial Calculator
 ## 🗒️ Overview
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+
 The Financial Calculator is a Python-based tool that enables users to calculate:  <br>
 1. 🏦 The **interest earned** on investment.  <br>
 2. 🏠 The **monthly repayment** required for a home loan.<br>
