@@ -71,6 +71,7 @@ The application provides the following commands:
 
 ### Example XML Output:
 ![image](https://github.com/user-attachments/assets/074d5722-d11f-40a3-840f-9e55fdb739b6)
+![image](https://github.com/user-attachments/assets/6f8be9f0-c3f5-4425-88ee-4d083670d082)
 
 
 ---
