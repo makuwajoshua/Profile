@@ -58,18 +58,18 @@ The application provides the following commands:
 ---
 
 ## Screenshots
-### Command Menu:
+### Command Menu and Student database:
 ![image](https://github.com/user-attachments/assets/3d4d68ab-2063-4d6d-823c-365e47c1cfb7)
 ![image](https://github.com/user-attachments/assets/5800917a-09a5-43ea-976d-e95c79baef8d)
 
 
-### Example JSON Output:
+### Example JSON Query and Output:
 ![image](https://github.com/user-attachments/assets/009c7892-8075-43e9-a055-12dd2b50cb8a)
 ![image](https://github.com/user-attachments/assets/79ae1ed2-7acd-474b-aaf0-9b248fe43ca6)
 
 
 
-### Example XML Output:
+### Example XML Query and Output:
 ![image](https://github.com/user-attachments/assets/074d5722-d11f-40a3-840f-9e55fdb739b6)
 ![image](https://github.com/user-attachments/assets/6f8be9f0-c3f5-4425-88ee-4d083670d082)
 
