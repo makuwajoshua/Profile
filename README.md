@@ -1,11 +1,13 @@
-# Data Querying App
+# 👨‍💻 Data Querying App
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-blue?logo=sqlite&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-Data-orange?logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-Data-red?logo=xml&logoColor=white)
 
-Welcome to the Data Querying App! This Python-based application provides an interface for querying a SQLite database, retrieving data, and storing results in JSON or XML formats. The app is user-friendly and demonstrates core database operations.
+Welcome to the Data Querying App! This Python-based application provides an interface for querying a SQLite database, 
+retrieving data, and storing results in JSON or XML formats.
+The app is user-friendly and demonstrates core database operations.
 
 ---
 
@@ -76,7 +78,7 @@ The application provides the following commands:
 
 ---
 
-## Code Highlights
+## 💻 Code Highlights
 ### Database Connection:
 ```python
 conn = sqlite3.connect("HyperionDev.db")
@@ -97,6 +99,10 @@ for item in data:
     for key, value in item.items():
         child = ET.SubElement(entry, key)
         child.text = str(value)
+```
+## Acknowledgments
+Special thanks HyperionDev community and mentors for their continuous support.
+
 - Python Community: For valuable resources and support.
 
 ---
