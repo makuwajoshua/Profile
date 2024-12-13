@@ -9,7 +9,7 @@ This project explores the US Arrests dataset using unsupervised learning techniq
 - Dimensionality Reduction using PCA
 - Clustering analysis
 
-##  Dataset Information
+## ℹ️ Dataset Information
 The US Arrests dataset contains data on arrests in the US across different states for various crimes. It includes the following features:
 - **Murder**: Murder arrests (per 100,000 residents)
 - **Assault**: Assault arrests (per 100,000 residents)
@@ -22,10 +22,10 @@ The US Arrests dataset contains data on arrests in the US across different state
 - **Dimensions**: Examined the number of rows and columns.
 - **Data Types**: Differentiated between numerical and categorical data.
 
-### Data Cleaning
+### 🧼 Data Cleaning
 - No missing values, duplicates, or inconsistencies were found in the dataset.
 
-### Data Visualization
+### 💹 Data Visualization
 - **Histograms**: Used to understand the distribution of each numerical variable.
 ![image](https://github.com/user-attachments/assets/5cf2c02f-3030-4142-8024-22c272542917)
 
@@ -40,21 +40,24 @@ The US Arrests dataset contains data on arrests in the US across different state
 
 ### Principal Component Analysis (PCA)
 - PCA was performed to reduce dimensionality while retaining most of the variance in the dataset.
-- Visualized the principal components to identify dominant patterns.
+- Visualized the principal components to identify dominant patterns (Biplot).
 ![image](https://github.com/user-attachments/assets/1c98a403-295c-4276-8024-2906c2025d69)
 
 ### Clustering
 - Applied clustering techniques (k-means and hierarchical clustering) to segment states into groups based on arrest patterns.
 - Evaluated the optimal number of clusters using methods like the elbow method and silhouette scores.
+
+## 📉 Results
+- **PCA**: Reduced dimensionality with minimal loss of information.
+- **Clustering**: Identified distinct clusters of states based on arrest data.
+  
+#### Biplot
+![image](https://github.com/user-attachments/assets/637944db-6402-4ad2-a08d-cfd9e561d976)
+
 #### Hierarchical
 ![image](https://github.com/user-attachments/assets/b69d7fc8-3ea4-4573-a88e-e847ed42ef96)
 
 #### KMeans
 ![image](https://github.com/user-attachments/assets/65991d7d-95e0-41e8-a7a1-6d04abfae423)
-
-## 📉 Results
-- **PCA**: Reduced dimensionality with minimal loss of information.
-- **Clustering**: Identified distinct clusters of states based on arrest data.
-![image](https://github.com/user-attachments/assets/637944db-6402-4ad2-a08d-cfd9e561d976)
 
 
