@@ -95,4 +95,4 @@ Key findings and visualizations are saved in the `results/` folder. These includ
 ![image](https://github.com/user-attachments/assets/d7f8715b-63e4-416f-a18e-0dcbcf4c4590)
 
 ## Acknowledgments
-Special thanks HyperionDev community and mentors for their continuous support.
+Special thanks to the HyperionDev community and mentors for their continuous support.
