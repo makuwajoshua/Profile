@@ -21,4 +21,4 @@ Hi! I'm Vitumbiko aka Vitu, I hold a BEng Industrial Engineering degree from the
 * Link: (https://github.com/makuwajoshua/Profile/blob/4e615acb372aeb28390efe3f1ac25585e4c19fea/README.md)
 
 **5. Unsupervised Machine Learning:**
-* Link: (https://github.com/makuwajoshua/Profile/blob/f0fb5a66f666a7e27de5f66a54bca843f5613bc3/README.md)
+* Link: (https://github.com/makuwajoshua/clustering.git)
