@@ -101,11 +101,11 @@ for item in data:
         child.text = str(value)
 ```
 ## Acknowledgments
-Special thanks HyperionDev community and mentors for their continuous support.
+Special thanks to the HyperionDev community and mentors for their continuous support.
 
 - Python Community: For valuable resources and support.
 
----
+--
 
 ![GitHub](https://img.shields.io/github/stars/yourusername/data-querying-app?style=social)
 
