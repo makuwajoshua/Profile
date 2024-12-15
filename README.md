@@ -92,7 +92,8 @@ Key findings and visualizations are saved in the `results/` folder. These includ
 ![image](https://github.com/user-attachments/assets/d0ee612e-7711-4d73-a4cb-193b32dc811d)
 
 ## Boxplot of Normalized Losses and Vehicle Type
-![image](https://github.com/user-attachments/assets/d7f8715b-63e4-416f-a18e-0dcbcf4c4590)
+![image](https://github.com/user-attachments/assets/d44bf59c-d351-4c8d-b499-5e3e9d878b63)
+
 
 ## Acknowledgments
 Special thanks to the HyperionDev community and mentors for their continuous support.
