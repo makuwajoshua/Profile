@@ -1,24 +1,32 @@
-# Welcome to My GitHub Profile! ✋
+Here’s a **GitHub description** for your Power BI **Customer Demographics Dashboard**:
 
-## About me 🦾
-![image](https://github.com/user-attachments/assets/e4c13522-9925-4f0d-8995-1bc82c91f2d8) ![image](https://github.com/user-attachments/assets/c40dca17-cfec-4d39-a1a4-c4961974c646)
+---
 
-Hi! I'm Vitumbiko aka Vitu, I hold a BEng Industrial Engineering degree from the University of Pretoria and have recently completed an intensive Data Science Bootcamp at HyperionDev, marking a significant step in my career transition. Combining my engineering background in problem-solving with a passion for deriving insights from data, I am eager to leverage these skills to drive data-informed decision-making processes. I am gaining valuable experience as an industrial Engineering intern at Blue Continent Products. I am now seeking an entry-level role 🕴️ where I can expand my knowledge, grow professionally, and contribute meaningfully to a team.
+# **Customer Demographics Dashboard - Power BI**  
 
-## 💻📊 Data Science Projects:
+📊 **Overview**  
+This **Power BI dashboard** provides insights into customer demographics, including **age distribution, income levels, credit card ownership, geographic distribution, and gender segmentation**. The dashboard enables interactive filtering and visualization for effective data-driven decision-making.  
 
-**1. Variables and Control Structures:**
-* Link: (https://github.com/makuwajoshua/Financial_Calculator.git)
+### **📌 Key Features**  
+✅ **Age & Retirement Insights**: Displays the average customer age and their expected retirement age.  
+✅ **Income Distribution**: Visualizes `Yearly_Income` across different age groups.  
+✅ **Credit Profile**: Tracks credit score, total debt, and number of credit cards.  
+✅ **Geographic Distribution**: Uses a map to show customer locations based on `latitude` and `longitude. '  
+✅ **Gender Breakdown**: Pie chart for male vs. female customer segmentation.  
+✅ **Interactive Filters**: Users can filter by `birth_month`, `current_age`, and `num_credit_cards`.  
 
-**2. Lists, Functions, and String Handling:**
+### **🛠️ Technologies Used**  
+- **Power BI** (Data modeling & visualization)  
+- **DAX** (Calculated columns & measures)  
+- **Data Cleaning & Transformation**  
 
-* Link: (https://github.com/makuwajoshua/Task-Management-App.git)
+### **🚀 Future Enhancements**  
+🔹 Add predictive modeling for **customer income growth** using machine learning.  
+🔹 Incorporate **dynamic forecasting** for debt and retirement planning.  
+🔹 Enhance **user interactivity** with more slicers and drill-through reports.  
 
-**3. Databases:**
-* Link: (https://github.com/makuwajoshua/Data-Query-App.git)
+💡 **How to Use**  
+Simply upload your dataset, and Power BI will generate insights automatically. Modify slicers and filters to explore different customer segments.  
 
-**4. Data Analysis:**
-* Link: (https://github.com/makuwajoshua/Automobile.git)
 
-**5. Unsupervised Machine Learning:**
-* Link: (https://github.com/makuwajoshua/clustering.git)
+
