@@ -1,7 +1,3 @@
-Here’s a **GitHub description** for your Power BI **Customer Demographics Dashboard**:
-
----
-
 # **Customer Demographics Dashboard - Power BI**  
 
 📊 **Overview**  
