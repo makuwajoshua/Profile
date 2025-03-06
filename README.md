@@ -24,4 +24,4 @@ Hi! I'm Vitumbiko aka Vitu. I hold a BEng Industrial Engineering degree from the
 * Link: (https://github.com/makuwajoshua/clustering.git)
 
 **6. PowerBI Dashboard
-* Link: 
+* Link: (https://github.com/makuwajoshua/Power-Bi-Dashboard.git)
